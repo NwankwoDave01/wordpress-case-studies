@@ -30,8 +30,7 @@ The goal was to create a clean, responsive, and user-friendly site that supports
 - Ability to work within CMS environments
 
 ## Screenshots
-![Homepage](screenshot-homepage.png)
-![Mobile View](screenshot-mobile.png)
+Available on Repo
 
 ## Author
 **Dave Nwankwo**  
